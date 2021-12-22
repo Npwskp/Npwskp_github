@@ -1,2 +1,2 @@
 while(1):
-    print('I love toto')
+    print('I love phusit')
