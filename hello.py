@@ -1,1 +1,1 @@
-print('hello world')
+print('hello world') # when you create first program lol
